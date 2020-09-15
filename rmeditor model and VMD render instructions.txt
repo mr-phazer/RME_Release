@@ -5,7 +5,8 @@ Render control buttons:
 Page up / Page Down: adjust ambient light intensity
 HOME / END: Adjust Directional light intensity (right mouse button down + mouse to move light source around)
 LEFT/RIGHT Arrows: Decrease/Increase roughness (make shinier, less shiny)
-R: Reset lighting and roughness to default.
+A/D: Rotate Environment Map (HDRI)
+R: Reset lighting, roughness and environment map rotation to default.
 S: Show/hide skeleton
 T: show ambient reflections only (debugging)
 P: scale diffuse by 1/PI (debugging)
