@@ -6,7 +6,7 @@ phazer
 
 ------Further Credits:--------
 - Original research into rigid_model_v2 + .anim + anim.meta file formats
-Mr.Jox / Victimized, Zarathos, phazer, Marthenil
+Zarathos, Mr.Jox / Victimized, phazer, Marthenil
 
 - Technical Consultants ( general 3d coding stuff)
 GreenyRepublic, Causeless, Marthenil: 
