@@ -5,8 +5,8 @@ RMEditor 0.91a - alpha dev
 phazer
 
 ------Further Credits:--------
-- Original research into rigid_model_v2 + .anim file formats
-Mr.Jox / Victimized, Zarathos, phaze, 
+- Original research into rigid_model_v2 + .anim + anim.meta file formats
+Zarathos, Mr.Jox / Victimized, phazer, Marthenil
 
 - Technical Consultants ( general 3d coding stuff)
 GreenyRepublic, Causeless, Marthenil: 
@@ -21,11 +21,11 @@ Frodo: for assisting with info about the .pack file format.
 Marthenil: For doing EXTENSIVE technical research on animation and other graphics topics.
 
 
-Main Application Icon
-- JakeArmitage
+- Main Application Icon
+JakeArmitage
 
 - Futher Icons
 Urgat
 
 - Testers
-ChaosRobie, Just a small cat, ​rpdmatt, Phanta, Celticus, Warman, Benjin, Marthenil
+ChaosRobie, Just a small cat, ​rpdmatt, Phanta, Celticus, Warman, Benjin, Marthenil, Urgat, Xiphos, Xoudad, Shawmuscle
