@@ -1,0 +1,31 @@
+--- [Credits ] ---
+RMEditor 0.91a - alpha dev 
+
+- Concept, Design, Coding
+phazer
+
+------Further Credits:--------
+- Original research into rigid_model_v2 + .anim file formats
+Mr.Jox / Victimized, Zarathos, phaze, 
+
+- Technical Consultants ( general 3d coding stuff)
+GreenyRepublic, Causeless, Marthenil: 
+
+- Rendering Engine Research
+phazer, Celticus, Marthenil
+
+- special thanks to
+Mr.Jox / Victimized: for making his RMV2 Converter sources available
+Causeless: for writing a method that stabilises animation as it is converted from quaternions to euler angles (DAE)
+Frodo: for assisting with info about the .pack file format.
+Marthenil: For doing EXTENSIVE technical research on animation and other graphics topics.
+
+
+Main Application Icon
+- JakeArmitage
+
+- Futher Icons
+Urgat
+
+- Testers
+ChaosRobie, Just a small cat, ​rpdmatt, Phanta, Celticus, Warman, Benjin, Marthenil
