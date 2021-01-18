@@ -2,7 +2,12 @@
 
 Render control buttons:
 [---------------------------------------]
-Page up / Page Down: adjust ambient light intensity
+Mouse Left Button + Move: Rotate World/Object
+Mouse Middle Button + Move: Move World on X/Y
+Mout Right Button + Move: Move directional light source (turn down environmenmt light and up for directional light to make this more visible)
+A/D: rotate environment (massive impact on how the image looks)
+Y/U: adjust exposure
+Page up / Page Down: adjust ligting from environment 
 HOME / END: Adjust Directional light intensity (right mouse button down + mouse to move light source around)
 LEFT/RIGHT Arrows: Decrease/Increase roughness (make shinier, less shiny)
 R: Reset lighting and roughness to default.
